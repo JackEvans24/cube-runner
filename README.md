@@ -1,4 +1,4 @@
-# CubeGame
+# Cube Runner
 
 A 3D Unity project made by following and tinkering with [this tutorial](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
